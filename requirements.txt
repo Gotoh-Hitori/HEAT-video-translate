@@ -1,0 +1,5 @@
+flask
+moviepy
+faster-whisper
+argostranslate
+ffmpeg-python
